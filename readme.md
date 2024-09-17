@@ -75,7 +75,7 @@ O modelo gerou 1000 simulações de preços futuros com base na média e no desv
 - **Distribuição dos Erros MAPE:**
   - A distribuição dos erros MAPE das simulações é visualizada em um histograma, mostrando a frequência dos diferentes níveis de erro percentual nas previsões.
 
-![Distribuição dos Erros MAPE](../CP/mape.png)
+![Distribuição dos Erros MAPE](mape.png)
 
 ## Conclusão
 
